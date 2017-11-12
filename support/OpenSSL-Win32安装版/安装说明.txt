@@ -1,0 +1,15 @@
+
+1.OpenSSL编译版下载地址：
+
+    http://www.slproweb.com/products/Win32OpenSSL.html
+
+2.安装前先安装“Visual C++ 2008 Redistributables”，下载地址：
+
+    http://www.microsoft.com/downloads/details.aspx?familyid=9B2DA534-3E03-4391-8A4D-074B9F2BC1BF
+
+    注意：要下载安装英文版，与OpenSSL语言保持一致！
+
+3.安装Win32OpenSSL-1_0_1f.exe。
+
+
+

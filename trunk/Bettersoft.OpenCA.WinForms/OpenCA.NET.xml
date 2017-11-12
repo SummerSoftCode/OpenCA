@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+  <!-- 系统登录口令，默认MTIzNDU2，即123456 -->
+  <LoginPassword>MTIzNDU2</LoginPassword>
+  <!-- CA私钥保护口令，默认MTIzNDU2，即123456 -->
+  <CAKeyPassword>MTIzNDU2</CAKeyPassword>  
+</Config>
